@@ -8,3 +8,7 @@ MIT:
 
 - glmatrix by toji (https://github.com/toji/gl-matrix)
 - hammer.js (https://hammerjs.github.io/)
+
+Public Domain:
+
+- Photoshop math GLSL shaders by Romain Dura (https://mouaif.wordpress.com/2009/01/05/photoshop-math-with-glsl-shaders/)
